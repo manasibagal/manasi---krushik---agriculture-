@@ -168,3 +168,10 @@ footer {
     box-shadow: 0 0 10px rgba(149, 213, 178, 0.8);
     display: inline-block;
 }
+#orderModal {
+    display: flex; /* Centering sathi */
+    align-items: center;
+    justify-content: center;
+    z-index: 9999; /* Saglyat varti disnyasathi */
+}
+
